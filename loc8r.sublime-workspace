@@ -1,0 +1,1148 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"get_query_",
+				"get_query_var"
+			],
+			[
+				"flus",
+				"flush_rewrite_rules"
+			],
+			[
+				"class",
+				"class_namespaced"
+			],
+			[
+				"flu",
+				"flush_rewrite_rules"
+			],
+			[
+				"insta",
+				"instances"
+			],
+			[
+				"func",
+				"function without name"
+			],
+			[
+				"db",
+				"db_pass"
+			],
+			[
+				"bsh",
+				"box-shadow"
+			],
+			[
+				"function",
+				"function without name"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"sc",
+				"secret"
+			],
+			[
+				"contact",
+				"contact_form"
+			],
+			[
+				"RouteSubscri",
+				"RouteSubscriberBase"
+			],
+			[
+				"object",
+				"object"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"Ex",
+				"ExampleForm"
+			],
+			[
+				"compa",
+				"company_name	(ExampleForm.php)"
+			],
+			[
+				"com-",
+				"com-basic	Idiomatic CSS - Basic Comment"
+			],
+			[
+				"com",
+				"com-section	Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"H",
+				"HelloWorldController"
+			],
+			[
+				"chat_ret",
+				"chat_retracted_title"
+			],
+			[
+				"chat_re",
+				"chat_retracted_title"
+			],
+			[
+				"chat_exten",
+				"chat_extended_title"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"under",
+				"underline"
+			],
+			[
+				"inh",
+				"inherit"
+			],
+			[
+				"list-sy",
+				"list-style-position"
+			],
+			[
+				"togg",
+				"toggleSlider"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"doc",
+				"docjq	HTML w/ jQuery"
+			],
+			[
+				"check",
+				"checkAvailable	(main.js)"
+			],
+			[
+				"deck",
+				"deck_state"
+			],
+			[
+				"com-s",
+				"com-sass-section	Idiomatic CSS - (Sass) Section Comment Block"
+			],
+			[
+				"thrownC",
+				"thrownCardArray"
+			],
+			[
+				"thrown",
+				"thrownCardArray	(state.php)"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"rand",
+				"randIndex"
+			],
+			[
+				"game_",
+				"game_queue.php	File"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"sto",
+				"storage"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"display",
+				"displayResource"
+			],
+			[
+				"pagina",
+				"pagination"
+			],
+			[
+				"onP",
+				"onPageClick"
+			],
+			[
+				"toLo",
+				"toLowerCase()"
+			],
+			[
+				"read",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"stor",
+				"storage	(classes.js)"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"thro",
+				"thrownCards"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"cards_",
+				"cards_on_table"
+			],
+			[
+				"sel",
+				"selz_deck"
+			],
+			[
+				"getjso",
+				"getjson	$.getjson()"
+			],
+			[
+				"getjs",
+				"getJSON(url)	browserify.js"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"getCar",
+				"getCardOnTable	(deck.class.php)"
+			],
+			[
+				"tr",
+				"try	Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"seria",
+				"serialize"
+			],
+			[
+				"requi",
+				"required	(setup.php)"
+			],
+			[
+				"getJ",
+				"getJSON(url)	es6-promise.js"
+			],
+			[
+				"cus",
+				"custom/"
+			],
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"deal",
+				"dealCardToPlayers"
+			],
+			[
+				"_cards",
+				"_cardsOnHand"
+			],
+			[
+				"getCa",
+				"getCardsArray"
+			],
+			[
+				"ser",
+				"serializeDeck"
+			],
+			[
+				"seri",
+				"serialize_obj.txt"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"jso",
+				"json_encode($card"
+			],
+			[
+				"cardsOn",
+				"cardsOnTable"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"_card",
+				"_cardsOnHand"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"getC",
+				"getCardsArray"
+			],
+			[
+				"sum",
+				"submit"
+			],
+			[
+				"getCard",
+				"getCardHref	(Card.class.php)"
+			],
+			[
+				"_ca",
+				"_cardId"
+			],
+			[
+				"_c",
+				"_cards"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"img",
+				"imgUrl"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"civi",
+				"civil_status"
+			],
+			[
+				"part",
+				"partner_name	(Human.php)"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"get_class_",
+				"get_class_vars"
+			],
+			[
+				"roya",
+				"royality"
+			],
+			[
+				"ro",
+				"royality"
+			],
+			[
+				"ch",
+				"childrenProp"
+			],
+			[
+				"an_",
+				"an_adult3"
+			],
+			[
+				"par",
+				"partn1"
+			],
+			[
+				"an",
+				"an_adult"
+			],
+			[
+				"parn",
+				"partn2"
+			],
+			[
+				"parnt",
+				"partn1"
+			],
+			[
+				"bir",
+				"birthday	(Adult.php)"
+			],
+			[
+				"new",
+				"new-component.component.ts"
+			],
+			[
+				"se",
+				"selector	(app.component.ts)"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"deta",
+				"detach()	media-views.js"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"dropD",
+				"dropDownMenu"
+			],
+			[
+				"dropDo",
+				"dropDownList"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"buil",
+				"buildingsMenu"
+			],
+			[
+				"catego",
+				"categories"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"widow",
+				"window"
+			],
+			[
+				"ajax",
+				"ajax	$.ajax()"
+			],
+			[
+				"documen",
+				"document"
+			],
+			[
+				"jqu",
+				"jQuery"
+			],
+			[
+				"requ",
+				"require_once	(upload-file.php)"
+			],
+			[
+				"resourceBLi",
+				"resourcesByList"
+			],
+			[
+				"ex",
+				"excerpt"
+			],
+			[
+				"resour",
+				"resources"
+			],
+			[
+				"resou",
+				"resource"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"resourceBy",
+				"resourcesByList	main.js"
+			],
+			[
+				"menu",
+				"menus"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: D",
+				"Package Control: Disable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsl",
+				"JSLint"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"handle",
+				"Snippet: each(handlebars)"
+			],
+			[
+				"console",
+				"Snippet: console.dir"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rem",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Resur",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: CSS3"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear",
+			"s.listen(8080);",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mohamadRashid/Desktop/loc8r"
+	],
+	"file_history":
+	[
+		"/Users/mohamadRashid/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/3AE54883-1DEB-43DA-82A6-3AE61DD0CC76/jscrashcourse/app.js",
+		"/Users/mohamadRashid/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/0E7391D3-701C-4BF0-B357-EBE2A7E1FCB2/angularAppBase/app.js",
+		"/Applications/MAMP/htdocs/express-app/cli-app/bin/www",
+		"/Applications/MAMP/htdocs/express-app/cli-app/app.js",
+		"/Applications/MAMP/htdocs/express-app/app.js",
+		"/Applications/MAMP/htdocs/express-app/package.json",
+		"/Users/mohamadRashid/Desktop/testnode/routes/index.js",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/node-wordpress/node-wordpress.php",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/node-wordpress/package.json",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/node-wordpress/examples/get-posts.js",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/mr-custom-post-type/mr-custom-post-type.php",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/mr-custom-post-type/classes/Router.php",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/mr-custom-post-type/classes/Register.php",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/mr-custom-post-type/templates/ctm_p_type.php",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/mvc-example/classes/Router.php",
+		"/Applications/MAMP/htdocs/mvc-wordpress/wp-content/plugins/mvc-example/mvc-example.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/movies_module/src/Form/MovieSettingForm.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/movies/src/Form/MovieForm.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/movies_module/src/Plugin/Block/PopularMoviesBlock.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/movies_module/movies_module.routing.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/movies/src/Plugin/Block/PopularMoviesBlock.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/movies_module/movies_module.info.yml",
+		"/Applications/MAMP/htdocs/express-app/views/404.jade",
+		"/Users/mohamadRashid/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/express-app/routes.js",
+		"/Applications/MAMP/htdocs/express-app/handlers/index.js",
+		"/Applications/MAMP/htdocs/express-app/app.log",
+		"/Applications/MAMP/htdocs/express-app/config.json",
+		"/Applications/MAMP/htdocs/express-app/public/stylesheets/style.css",
+		"/Applications/MAMP/htdocs/express-app/public/javascripts/main.js",
+		"/Applications/MAMP/htdocs/express-app/config.ini",
+		"/Volumes/Maja/Mac Programs/sublimeTextMessages/Emmet",
+		"/Volumes/Maja/Mac Programs/sublimeTextMessages/CSS3",
+		"/Applications/MAMP/htdocs/express-app/views/hello.jade",
+		"/Applications/MAMP/htdocs/express-app/views/index.jade",
+		"/Applications/MAMP/htdocs/javascript/package.json",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/contactus_permission/contactus_permission.install",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/contactus_permission/contactus_permission.info.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_permission/config/install/contact.form.contactus.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_permission/config/custom_permission.routing.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_permission/src/Controller/MyPageController.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_permission/custom_permission.permissions.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_permission/custom_permission.info.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_permission/custom_permission.permission.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_permission/custom_permission.routing.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_page/src/Controller/MyPageController.php",
+		"/Users/mohamadRashid/Library/Application Support/Sublime Text 3/Packages/User/Drush.sublime-settings",
+		"/Applications/MAMP/htdocs/drupal-8-module/vendor/behat/mink/.travis.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_page/custom_page.services.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_page/Routing/RouteSubscriber.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_page/Routing/CustomRoutes.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/custom_page/custom_page.routing.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/core/modules/migrate/src/Plugin/migrate/process/Route.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/core/lib/Drupal/Core/Routing/Access/AccessInterface.php",
+		"/Users/mohamadRashid/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/mymodule/mymodule.libraries.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/mymodule/src/Plugin/Block/AngularBlock.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/example_templates/example_templates.routing.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/example_templates/src/Controller/ExampleTemplatesController.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/example_templates/templates/example-link.html.twig",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/example_templates/example_templates.module",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/template_example/template_example.module",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/template_example/templates/example_link.html.twig",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/template_example/src/Controller/TemplateExampleController.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/template_example/template_example.routing.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/template_example/Tests/Controller/templateExampleControllerTest.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/drupalform/src/Form/ExampleForm.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custmodule/custmodule.module",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/mymodule/mymodule.info.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/mymodule/mymodule.module",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/mymodule/package.json",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custmodule/custmodule.info.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/drupalform/config/install/drupalform.schema.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/drupalForm/drupalform.routing.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/drupalForm/drupalform.info.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/drupalform/src/Form/ContactForm.php",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/drupalform/drupalForm.routing.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/example_hooks/example_hooks.module",
+		"/Applications/MAMP/htdocs/drupal-8-module/modules/custom/drupalForm/drupalForm.info.yml",
+		"/Applications/MAMP/htdocs/drupal-8-module/Drupal.sublime-projectcompletions",
+		"/Applications/MAMP/htdocs/drupal-8-module/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/spa/css/spa.shell.css",
+		"/Applications/MAMP/htdocs/spa/layout.html",
+		"/Applications/MAMP/htdocs/spa/source-code/ch03/3.5.2/js/spa.shell.js",
+		"/Applications/MAMP/htdocs/spa/source-code/ch03/3.6.3/js/spa.shell.js",
+		"/Applications/MAMP/htdocs/spa/Gruntfile.js",
+		"/Applications/MAMP/htdocs/spa/.gitignore",
+		"/Applications/MAMP/htdocs/spa/package.json",
+		"/Applications/MAMP/htdocs/spa/index.html",
+		"/Applications/MAMP/htdocs/spa/js/jq/jquery.uriAnchor.js",
+		"/Applications/MAMP/htdocs/spa/css/spa.css",
+		"/Volumes/Maja/Webbutvecklings E-böcker/150+ Front-End Web Development and Related Books/You-Dont-Know-JS/scope & closures/apB.md",
+		"/Volumes/Maja/Webbutvecklings E-böcker/150+ Front-End Web Development and Related Books/You-Dont-Know-JS/scope & closures/apA.md",
+		"/Applications/MAMP/htdocs/spa/source-code/ch01/spa-1.2.5.html",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/remove_serialize.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/less/custom/custom.less",
+		"/Applications/MAMP/htdocs/swedish-rummy/Gruntfile.js",
+		"/Applications/MAMP/htdocs/swedish-rummy/index.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/js/custom/main.js",
+		"/Applications/MAMP/htdocs/swedish-rummy/js/custom/main.min.js",
+		"/Applications/MAMP/htdocs/swedish-rummy/js/custom/unserialize_deck_object.js",
+		"/Applications/MAMP/htdocs/swedish-rummy/txt/serialize_deck_obj.txt",
+		"/Applications/MAMP/htdocs/swedish-rummy/js/custom/ajax-func.js",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/game_state.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/user_play_card.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/classes/deck.class.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/api-old/bot_play_card.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/play_card.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/classes/player.class.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/game_queue.php",
+		"/Users/mohamadRashid/Dropbox/www/mamp/www/swedish-rummy",
+		"/Applications/MAMP/htdocs/swedish-rummy/classes/Bot.class.php",
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/js/bootstrapNavMenu.js",
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/js/libs/bootstrap-paigination.min.js",
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/functions.php",
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/js/pagination.js",
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/js/classes.js",
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/less/main.less",
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/index.php",
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/js/libs/bootstrap-hover-dropdown.js",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/start_card.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/classes/Request.class.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/inc/setup.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/cards_on_table.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/get_users.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/classes/card.class.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/api/deck_json.php",
+		"/Applications/MAMP/htdocs/swedish-rummy/inc/deal_cards.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/drupal-8-module/core/lib/Drupal/Core/Form",
+			"/Applications/MAMP/htdocs/swedish-rummy/api",
+			"/Applications/MAMP/htdocs/swedish-rummy",
+			"/Applications/MAMP/htdocs/swedish-rummy/classes/deck.class.php",
+			"/Applications/MAMP/htdocs/swedish-rummy/classes/card.class.php",
+			"/Applications/MAMP/htdocs/airlines",
+			"/Applications/MAMP/htdocs/uppload-files/wp-content/plugins/wp-job-listing",
+			"/Applications/MAMP/htdocs/uppload-files/wp-content/plugins/wp-job-listing/wp-job-fields.php",
+			"/Applications/MAMP/htdocs/uppload-files/wp-content/plugins/akismet",
+			"/Applications/MAMP/htdocs/drupal-8-project",
+			"/Applications/MAMP/htdocs/drupal-8-project/themes/custom/maja",
+			"/Applications/MAMP/htdocs/drupal-8-project/themes/custom/maja/less",
+			"/Applications/MAMP/htdocs/hewar.gallery/wp-content/themes/hewar.gallery/less",
+			"/Applications/MAMP/htdocs/hewar.gallery/wp-content/themes/hewar.gallery",
+			"/Applications/MAMP/htdocs/hewar.gallery/wp-content/themes/hewar.gallery/less",
+			"/Applications/MAMP/htdocs/hewar.gallery/wp-content/themes/hewar.gallery",
+			"/Applications/MAMP/htdocs/hewar.gallery/wp-content/themes/hewar.gallery/less",
+			"/Applications/MAMP/htdocs/hewar.gallery/wp-content/themes/hewar.gallery",
+			"/Applications/MAMP/htdocs/drupal-8-project",
+			"/Applications/MAMP/htdocs/drupal-8-project/themes/custom/maja/less",
+			"/Applications/MAMP/htdocs/drupal-8-project/themes/custom/maja/bootstrap/less",
+			"/Applications/MAMP/htdocs/drupal-8-project/themes/custom/maja/bootstrap/less/mixins",
+			"/Applications/MAMP/htdocs/drupal-8-project/themes/custom/maja",
+			"/Applications/MAMP/htdocs/drupal-8-project/themes/custom/maja/less",
+			"/Applications/MAMP/htdocs/hewar.gallery",
+			"/Applications/MAMP/htdocs/inkness",
+			"/Applications/MAMP/htdocs/hewar-gallery/wp-content/themes/hewar-gallery",
+			"<project>",
+			"/Applications/MAMP/htdocs/hewar-gallery/wp-content/themes/hewar-gallery",
+			"/Applications/MAMP/htdocs/hewar-gallery/wp-content/themes/hewar-gallery/js/jquery.sticky.js",
+			"/Applications/MAMP/htdocs/hewar/wp-content/themes/hewar",
+			"/Applications/MAMP/htdocs/hewar/wp-content/themes/hewar/js/jquery.countTo.js",
+			"/Applications/MAMP/htdocs/hewar/wp-content/themes/hewar/partials/header.php",
+			"/Applications/MAMP/htdocs/hewar/wp-content/themes/hewar/partials/footer.php",
+			"/Applications/MAMP/htdocs/hewar/wp-content/themes/hewar/index.php",
+			"/Applications/MAMP/htdocs/hewar/wp-content/themes/hewar/js",
+			"/Applications/MAMP/htdocs/authentication/vendor/twig",
+			"/Applications/MAMP/htdocs/interanet-drupal8/themes/custom/maja/sass",
+			"/Applications/MAMP/htdocs/drupal-8/themes/custom/maja/tamplates/page",
+			"/Applications/MAMP/htdocs/my_page/CSS",
+			"/Users/mohamadRashid/Dropbox/CMS/ftp/ftp_drupal-keepcalm/drupal-keepcalm",
+			"/Users/mohamadRashid/Dropbox/www/mamp/www/perssons-bilverkstad/wp-content/themes/ample-child",
+			"/Users/mohamadRashid/Dropbox/www/mamp/www/perssons-bilverkstad/wp-content/themes/ample"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blogdata_all",
+			"h1",
+			"form",
+			"send",
+			"status",
+			"send",
+			"config",
+			"module",
+			"node_modules",
+			"save()",
+			"save",
+			"sav",
+			"save",
+			"drupalFrom",
+			"hello_world",
+			"is_sliding",
+			"callback",
+			"$chat",
+			"api/",
+			"user_play_card",
+			"active",
+			"delegate",
+			"active-user",
+			"$",
+			"CardsOnHan",
+			"js",
+			"thrownCards",
+			"cardId",
+			"thrown",
+			"cards",
+			"delegate",
+			"findPlayerHand",
+			"findPlayer",
+			"_cardsOnHand",
+			"botCardOnHand",
+			"_users",
+			"botCardOnHand",
+			"delegate",
+			"play_card",
+			"selz_deck",
+			"ob",
+			"botPlayCard",
+			"countUsers",
+			"$cardontabl",
+			"userTurn",
+			"user",
+			"setInterval",
+			"::",
+			"]);\n",
+			"setInterval",
+			"index",
+			"ob",
+			"path_to_serialize_tx",
+			"$categories",
+			"page-menu",
+			"page-link",
+			"console.log",
+			"homePage",
+			"lastTeaserView",
+			"pageId",
+			"console",
+			"test",
+			"li",
+			"type",
+			"url",
+			"append",
+			"false",
+			"item",
+			"id",
+			"deckUrl",
+			"k",
+			"cardsOnHan",
+			"cards",
+			"dealCardsToUsers",
+			"deckUrl",
+			"data",
+			"private",
+			"cardId",
+			"public",
+			"item",
+			"ob",
+			"PATH_TO_SERIALIZE_OBJ_FILE",
+			"playerName",
+			"addBotPlayer",
+			"errorMessage",
+			"messages",
+			"dealTest",
+			"botUser",
+			"user",
+			"bot",
+			"cardsOnHand",
+			"row",
+			"default",
+			"less",
+			"css",
+			"card",
+			"_cardId",
+			"index",
+			"indexOfCard",
+			"cardDraw",
+			"array_splice",
+			"cardDraw",
+			"randCard",
+			"theCards",
+			"card_obj",
+			");\n",
+			"card_obj",
+			"playerId",
+			"id",
+			"backOfCard",
+			"cardsOnTable",
+			"public",
+			"cards",
+			"split_url",
+			"card_expl",
+			"json_file",
+			"an_adult1",
+			"children",
+			"Pos_Date",
+			"dif",
+			"yyddmm",
+			"name",
+			");\n",
+			"prevPosts",
+			"getNext",
+			"false",
+			"excrpt",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"public",
+			".ejs",
+			"$post_id",
+			"$post->ID",
+			"id=\"job-id\"",
+			"job_id",
+			" // Exclude Front Slide and Contact us categories\n 'cal'             => [-10, -13],",
+			"jumbo-tron",
+			"<span><a href=\"<?php echo get_month_link($archive_year, $archive_month); ?>\"><?php  echo $month_as_word ?></a></span>",
+			"<p class=\"post_info\">",
+			"<div class=\"post_info\">",
+			"@gray-dark",
+			"@gray-light",
+			"@gray-lighter",
+			"hewar",
+			"@main-links-color",
+			"@main-h2-color",
+			"@site-main-color;",
+			"jQuery",
+			"$",
+			"jQuery",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.travis-yml-panel":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "",
+	"project": "loc8r.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".tra",
+				"vendor/behat/mink/.travis.yml"
+			],
+			[
+				"drupal/core/routing/access/",
+				"core/lib/Drupal/Core/Routing/Access/AccessInterface.php"
+			],
+			[
+				"accessinter",
+				"core/lib/Drupal/Core/Routing/Access/AccessInterface.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 450.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
