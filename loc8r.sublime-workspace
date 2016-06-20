@@ -519,6 +519,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app_server/views/layout.jade",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n	\"folders\":\n	[\n		{\n			\"path\": \".\"\n		}\n	]\n}\n",
+			"file": "loc8r.sublime-project",
+			"file_size": 45,
+			"file_write_time": 131108437420000000,
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -667,10 +686,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/mohamadRashid/Desktop/loc8r"
+		"/Users/mohamadRashid/Desktop/loc8r",
+		"/Users/mohamadRashid/Desktop/loc8r/public/bootstrap",
+		"/Users/mohamadRashid/Desktop/loc8r/public/stylesheets"
 	],
 	"file_history":
 	[
+		"/Users/mohamadRashid/Desktop/loc8r/package.json",
+		"/Users/mohamadRashid/Desktop/loc8r/Procfile",
+		"/Users/mohamadRashid/Desktop/loc8r/public/stylesheets/style.css",
+		"/Users/mohamadRashid/Desktop/loc8r/public/bootstrap/css/amelia.bootstrap.css",
+		"/Users/mohamadRashid/Desktop/loc8r/public/bootstrap/css/amelia.bootstrap.min.css",
+		"/Users/mohamadRashid/Desktop/loc8r/app_server/routes/index.js",
+		"/Users/mohamadRashid/Desktop/loc8r/app_server/controllers/main.js",
+		"/Users/mohamadRashid/Desktop/loc8r/app.js",
+		"/Users/mohamadRashid/Desktop/loc8r/source-code/getting-MEAN/app.js",
 		"/Users/mohamadRashid/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/3AE54883-1DEB-43DA-82A6-3AE61DD0CC76/jscrashcourse/app.js",
 		"/Users/mohamadRashid/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/0E7391D3-701C-4BF0-B357-EBE2A7E1FCB2/angularAppBase/app.js",
 		"/Applications/MAMP/htdocs/express-app/cli-app/bin/www",
@@ -789,16 +819,7 @@
 		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/js/pagination.js",
 		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/js/classes.js",
 		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/less/main.less",
-		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/index.php",
-		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/js/libs/bootstrap-hover-dropdown.js",
-		"/Applications/MAMP/htdocs/swedish-rummy/api/start_card.php",
-		"/Applications/MAMP/htdocs/swedish-rummy/classes/Request.class.php",
-		"/Applications/MAMP/htdocs/swedish-rummy/inc/setup.php",
-		"/Applications/MAMP/htdocs/swedish-rummy/api/cards_on_table.php",
-		"/Applications/MAMP/htdocs/swedish-rummy/api/get_users.php",
-		"/Applications/MAMP/htdocs/swedish-rummy/classes/card.class.php",
-		"/Applications/MAMP/htdocs/swedish-rummy/api/deck_json.php",
-		"/Applications/MAMP/htdocs/swedish-rummy/inc/deal_cards.php"
+		"/Applications/MAMP/htdocs/wpREST_mohamad_rashid_final/wp-content/themes/base/index.php"
 	],
 	"find":
 	{
@@ -1026,8 +1047,66 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app_server/views/layout.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "loc8r.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
