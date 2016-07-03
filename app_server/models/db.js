@@ -1,6 +1,16 @@
 var mongoose = require( 'mongoose' ),
 		dbURI = 'mongodb://localhost/Loc8r';
-		mongoose.connect(dbURI);
+
+// check if producton-env in use
+if (process.env.NODE_ENV === 'production') {
+	// production-env database (we can use this URI)
+	
+	//dbURI = 'mongodb://admin:loc8rNode@ds011745.mlab.com:11745/loc8r-mrashid';
+	
+	// OR
+	dbURI = process.env.MONGOLAB_URI;
+}
+mongoose.connect(dbURI);
 
 mongoose.connection.on('connected', function () {
 	 console.log('Mongoose connected to ' + dbURI);
